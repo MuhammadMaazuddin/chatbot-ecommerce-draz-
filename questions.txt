@@ -1,0 +1,36 @@
+What is the specs of the RedmiA2+
+say me about the specifications of the RedmiNote12
+Can you provide details about the SamsungA14
+Tell me about the SamsungA14
+What is the brand and model of the RedmiNote12
+Provide details about the TecnoCamon20
+Can you give information about the SamsungA54
+What is the review score of the RedmiA2+
+Tell me about the company associated with the SamsungA54
+What are the specifications of the SamsungA54
+tell me the top 5 best phones 
+tell me the top 5 best phones with storage 8GB
+Tell me about the storage capacity of the InfinixNote30Pro.
+Can you provide the number of questions related to the RedmiNote12
+How many products have a review score of 4.7 or higher
+Provide details about the product with the highest review score.
+How many products have a storage capacity of 128GB or more
+Tell me about the brand and model of the product with the lowest review score.
+Are there any products with a score higher than 4.5 and priced below Rs 30000
+What is the average review score of all the products
+Provide details about the product with the highest number of questions.
+Tell me about the products from the brand No Brand.
+How many products have specifications mentioning PTA approval
+Tell me about the product with the highest number of reviews.
+Are there any products with a score between 4.0 and 4.5 and priced between Rs 30000 and Rs 40000
+Provide details about the Redmi A2+ including specifications and the review score.
+Can you list products from Xiaomi in the dataset
+Provide details about the prodmduct with the highest number of both questions and reviews.
+What is the total number of questions for all products in the dataset
+Tell me about the product with the lowest price.
+Provide details about the product with the lowest number of reviews.
+give me the phones in the range between 50000 to 90000.
+i want mobile in the range between 50000 to 90000 and redmi company with ratings between 4.5 to 5.
+give me top 5 products with positive reviews.
+what is the best product in the Redmi company.
+How many reviews does the TecnoCamon20 have
